@@ -1,7 +1,7 @@
 
 # 💼 Accenture North America - Data Analytics & Visualization (Forage)
 
-Welcome to the **Accenture North America Virtual Experience Program** (via Forage) — a hands-on simulation where I worked as a **Data Analyst** to deliver actionable insights and visual storytelling for a fast-growing social media company, **Social Buzz**.
+ **Accenture North America Virtual Experience Program** (via Forage) — a hands-on simulation where I worked as a **Data Analyst** to deliver actionable insights and visual storytelling for a fast-growing social media company, **Social Buzz**.
 
 > 🧠 “Data is not just information. It’s the story of your business. And we’re here to tell it.”
 
